@@ -12,7 +12,7 @@
 
 ## Instructions
 
-##### Create a resume by using a Lightweight Markup Language
+### Create a resume by using a Lightweight Markup Language
 
 - According to Andrew Etter in *Modern Technical Writing*, XML files are needed to build websites. But they are language which has its own conventions and therefore requires learning the syntax just like a programming language(i.e. Javascript). This reducues the contributions of modern technical writers as they might not have experience with programming languages. Etter states that writing the contents in a lighweight markup languages makes it easier to produce a well-formatted XML. The lightweight markup languages are human-readable and follows a simple syntax which in turn can increase the contributions.
 - Several Lightweight Markup languages are available such as Markdown, reStructuredText and AsciiDoc as described in *Modern Technical Writing* by Andrew Etter. For the purposes of this specific instructions, we will be using Markdown to demonstrate the objective of hosting a resume. Markdown is described to be the most widely used lightweight markup language as it has a straightforward syntax in *Modern Technical Writing* by Etter. 
@@ -23,7 +23,7 @@
 - Due to limited set of features in a Markdown, different 'flavors' were added in extension. Since, we will be hosting in Github, please use the instructions [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for basic formatting syntax in Github. To learn more about Github Flavors Markdown specifications, click [here](https://github.github.com/gfm/)
 
 
-##### Creating a repository in Github and add files to repository
+### Creating a repository in Github and add files to repository
 
 Since now you already have an account in Github, the next step is to create a repository where your Markdown-formatted files will be stored. The steps are provided below:
 
@@ -50,7 +50,7 @@ Now your resume is uploaded in online. You can take a look at it by visiting "Us
 > Github is a distributed version control system. A distributed version control system, as mentioned by Etter in *Modern Technical Writing*, provides greater speed, permits offline work, and is preferable for parallel work on the same file. Because we set up a repository earlier, this is now accessible on github, where different individuals may work on the same file, such as the readme.md, and push their modifications. If a modification is made, the repository's owner will be able to first determine whether the change is essential. The modification will be verified by the person with the power to approve it, and the code will be changed. As a result, as Etter said, it is unquestionably better. Instead of waiting for a single person to make a modification, all participants may work on a file simultaneously without worrying about what the other may modify.
 
 
-##### Hosting the resume on static website
+### Hosting the resume on static website
 
 >You can now notice that the Resume on your website appears fairly basic, just like it does on github. As a result, we will utilise the static site Jekyll to apply a theme that will give the website a fashionable appearance. This is accomplished by using a theme on Github Pages, as proposed by Andrew Etter in his book *Modern Technical Writing*. 
 
