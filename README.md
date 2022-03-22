@@ -20,7 +20,7 @@ Practical steps for hosting and formatting a resume on a static site with Markdo
     - [MarkdownPad](http://markdownpad.com/) (For Windows)
     - [iA Writer](https://ia.net/writer) (For macOS)
     - [ReText](https://www.linuxhelp.com/how-to-install-retext-7-0-1-on-ubuntu-18-04) (For Linux)
-- Due to limited set of features in a Markdown, different 'flavors' were added in extension. Since, we will be hosting in Github, please use the instructions [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for basic formatting syntax in Github. To learn more about Github Flavors Markdown specifications, click [here](https://github.github.com/gfm/) respectively. 
+- Due to limited set of features in a Markdown, different 'flavors' were added in extension. Since, we will be hosting in Github, please use the instructions [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for basic formatting syntax in Github. To learn more about Github Flavors Markdown specifications, click [here](https://github.github.com/gfm/) 
 
 
 ### Creating a repository in Github and add files to repository
@@ -33,7 +33,7 @@ Since now you already have an account in Github, the next step is to create a re
     - The name of the repository must be your github account user name followed by .github.io
 
 
-The next step is to push(adding) your files to the repository. There are alternatives way to do this which includes pushing files through command line from your local machine or doing it directly through the browser. The steps below will demonstarate on how to add files directly through the browser. For those who would like to do it through the command line, follow these steps as provided in [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) and [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-using-the-command-line) 
+The next step is to push(adding) your files to the repository. There are alternatives way to do this which includes pushing files through command line from your local machine or doing it directly through the browser. The steps below will demonstarate on how to add files directly through the browser. For those who would like to do it through the command line, follow these steps as provided in [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) and [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-using-the-command-line) respectively.
 
 
 The steps to add files directly through browser: 
