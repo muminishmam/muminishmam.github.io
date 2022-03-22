@@ -1,7 +1,7 @@
 
 # Hosting a resume in static site using Github
 
-**Purpose** 
+## Purpose 
 
 Practical steps for hosting and formatting a resume on a static site with Markdown, Github Pages, and Jekyll while adhering to the specific basic principles of modern technical writing as stated in Andrew Etter's book *Modern Technical Writing*.
 
