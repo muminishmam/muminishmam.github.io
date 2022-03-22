@@ -12,7 +12,7 @@ Practical steps for hosting and formatting a resume on a static site with Markdo
 
 ## Instructions
 
-### Create a resume by using a Lightweight Markup Language
+### 1. Create a resume by using a Lightweight Markup Language
 
 - XML files are required to develop websites, according to Andrew Etter in *Modern Technical Writing*. They are, however, a language with their own rules that, like a programming language, necessitates learning the syntax (i.e. Javascript). This limits the contributions of current technical writers, who may not be familiar with programming languages. According to Etter, putting the content in a lightweight markup language makes generating a well-formatted XML easier. The lightweight markup languages are human-readable and have a simple syntax, which also helps boost contributions from people with little to none background of programming.
 - Several Lightweight Markup languages are available such as Markdown, reStructuredText and AsciiDoc as described in *Modern Technical Writing* by Andrew Etter. For the purposes of this specific instructions, we will be using Markdown to demonstrate the objective of hosting a resume. Markdown is described to be the most widely used lightweight markup language as it has a straightforward syntax in *Modern Technical Writing* by Etter. 
@@ -23,7 +23,7 @@ Practical steps for hosting and formatting a resume on a static site with Markdo
 - Due to limited set of features in a Markdown, different 'flavors' were added in extension. Since, we will be hosting in Github, please use the instructions [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for basic formatting syntax in Github. To learn more about Github Flavors Markdown specifications, click [here](https://github.github.com/gfm/) 
 
 
-### Creating a repository in Github and add files to repository
+### 2. Creating a repository in Github and add files to repository
 
 Since now you already have an account in Github, the next step is to create a repository where your Markdown-formatted files will be stored. The steps are provided below:
 
@@ -50,7 +50,7 @@ Your resume has now been uploaded to the website. You may see it by visiting to 
 > Github is a distributed version control system. A distributed version control system, as mentioned by Etter in *Modern Technical Writing*, provides greater speed, permits offline work, and is preferable for parallel work on the same file. Because we set up a repository earlier, this is now accessible on github, where different individuals may work on the same file, such as the readme.md, and push their modifications. If a modification is made, the repository's owner will be able to first determine whether the change is essential. The modification will be verified by the person with the power to approve it, and the code will be changed. As a result, as Etter said, it is unquestionably better. Instead of waiting for a single person to make a modification, all participants may work on a file simultaneously without worrying about what the other may modify.
 
 
-### Hosting the resume on static website
+### 3. Hosting the resume on static website
 
 >You can now notice that the Resume on your website appears fairly basic, just like it does on github. As a result, we will utilise the static site Jekyll to apply a theme that will give the website a fashionable appearance. This is accomplished by using a theme on Github Pages, as proposed by Andrew Etter in his book *Modern Technical Writing*. 
 
