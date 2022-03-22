@@ -7,7 +7,7 @@ Email: ishmacam@myumanitoba.ca | Mobile: +1(204)869-3984 | Github: [muminishmam]
 
 ---
 
-### Education 
+### **Education** 
 
 **Bachelor of Computer Science Major**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018 - Present
 
@@ -21,7 +21,7 @@ GPA: 3.65/4.50
 
 ---
 
-### Technical Skills
+### **Technical Skills**
 
 #### **Languages and Databases**
 
@@ -41,7 +41,7 @@ Git/Github, Bootstrap, Android.
 
 ---
 
-### Projects
+### **Projects**
 
 #### **Reversible Learning**
 
@@ -74,7 +74,7 @@ Git/Github, Bootstrap, Android.
 
 ---
 
-### Work Experience
+### **Work Experience**
 
 #### **Bangladesh Basketball Federation**
 
@@ -84,7 +84,7 @@ Git/Github, Bootstrap, Android.
 
 ---
 
-### Volunteer Experience
+### **Volunteer Experience**
 
 #### **Jaago Foundation**
 
@@ -97,7 +97,7 @@ Git/Github, Bootstrap, Android.
 ---
 
 
-### Leadership Experience
+### **Leadership Experience**
 
 #### **U-18 South-Asian Basketball Tournament**
 
@@ -110,7 +110,7 @@ Git/Github, Bootstrap, Android.
 ---
 
 
-### Awards and Achievements
+### **Awards and Achievements**
 
 - Dean's Honour Roll, University of Manitoba.
     - *Fall 2020*
@@ -119,7 +119,7 @@ Git/Github, Bootstrap, Android.
 ---
 
 
-### Intersts and Hobbies
+### **Intersts and Hobbies**
 
 #### **Web Design and Software Development**
 
