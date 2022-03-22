@@ -1,5 +1,5 @@
 ---
-title
+title: Personal Resume
 ---
 # Chowdhury Abdul Mumin Ishmam
 
