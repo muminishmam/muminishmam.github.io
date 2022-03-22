@@ -84,7 +84,7 @@ Visit the website now and it should look like this:
 
 ## Authors and Acknowledgements
 
-Written by Chowdhury Abdul Mumin Ishmam following the guidlines and principles of *Modern Technical Writing* by Andrew Etter. Assessed by PokYee Tsu, Sungjae Hyun, Kieran Ketelsen and Zhong He. 
+Written by Chowdhury Abdul Mumin Ishmam, following the guidlines and principles of *Modern Technical Writing* by Andrew Etter. Assessed by PokYee Tsu, Sungjae Hyun, Kieran Ketelsen and Zhong He. 
 
 
 ## FAQs
