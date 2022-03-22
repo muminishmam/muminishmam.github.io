@@ -1,5 +1,5 @@
 
-# Hosting a resume in static site using Github
+# Hosting a resume in Github Pages
 
 ## Purpose 
 
