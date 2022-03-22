@@ -64,7 +64,8 @@ Below are the steps that are required to host a resume with a static site theme:
 - Now you can visit your static website through "UserName.github.io" and the resume will be displaying with your desired theme. 
 
 
-If you go to your website right now, it will look like this:
+
+If you go to your website right now, it should look like this:
 ![gif](resume.gif)
 
 > As also suggested by Etter, static site generators usually do not have any dependencies and have a simple migration. We can see that, generating a theme using Github Pages directly applies the changes to our website. Hence, a simpler migration. 
