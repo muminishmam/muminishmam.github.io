@@ -7,29 +7,33 @@ Email: ishmacam@myumanitoba.ca | Mobile: +1 (204)869-3984 | Github: https://gith
 
 ### Education 
 
-**Bachelor of Computer Science Major**            2018 - Present
+**Bachelor of Computer Science Major**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018 - Present
+
 *Minor in Statistics*
+
 University of Manitoba, Winnipeg, MB. 
+
 Expected Date of Graduation: August 2022
+
 GPA: 3.65/4.50
 
 ---
 
 ### Technical Skills
 
-**Languages and Databases**
+#### **Languages and Databases**
 
-*Familiarity and Course Level Expericemce:* Python, Java, C/C++, Assembly, Prolog, JavaScript, HTML, CSS, SQL, SQLDB, R.
+*Familiarity and Course Level Expericence:* Python, Java, C/C++, Assembly, Prolog, JavaScript, HTML, CSS, SQL, SQLDB, R.
 
-**Software** 
+#### **Software** 
 
 Android Studio, R Studio, MS Office, IntelliJ, Dr. Java, Visual Studio Code, Xcode
 
-**Technologies**
+#### **Technologies**
 
 Git/Github, Bootstrap, Android. 
 
-**Operating Systems** 
+#### **Operating Systems** 
 
 *Practical Experience and Familiarity with:* Mac OS, Microsoft Windows, Linux, Unix.
 
@@ -37,7 +41,8 @@ Git/Github, Bootstrap, Android.
 
 ### Projects
 
-**Reversible Learning**
+#### **Reversible Learning**
+
 *Software Engineering, 2021*
 
 - An android application that can be used to make user customized flashcards for the purposes of studying individually. 
@@ -47,7 +52,8 @@ Git/Github, Bootstrap, Android.
 - Test Driven Development(TDD) was followed and 3 layers of testing framework was implemented(i.e.Logic, Interface and System).
 
 
-**GStat**
+#### **GStat**
+
 *Human-Computer Interaction, 2021*
 
 - A front-end web application that can be used to keep track of a users' personal gaming time and spending budget for various range of time. 
@@ -56,7 +62,8 @@ Git/Github, Bootstrap, Android.
 - Created with Bootstrap and Charts.js to style in a way that will appeal the user. 
 
 
-**EPL Association**
+#### **EPL Association**
+
 *Applied Linear Statistical Models, 2021*
 
 - A personal research project to understand whether the Win Percentage of an English Premier League soccer team can be explained by associated variables using regression analysis. 
@@ -67,7 +74,8 @@ Git/Github, Bootstrap, Android.
 
 ### Work Experience
 
-**Bangladesh Basketball Federation**
+#### **Bangladesh Basketball Federation**
+
 *Trainer, in Dhaka, Bangladesh from 2015-2016*
 
 - Worked as a trainer to coach individuals who are beginners to the game of basketball
@@ -76,7 +84,8 @@ Git/Github, Bootstrap, Android.
 
 ### Volunteer Experience
 
-**Jaago Foundation**
+#### **Jaago Foundation**
+
 *Universal Childrens Day Carnival, November 2014*
 
 - Volunteered in one of the biggest event of Jaago Foundation that helped to assist the in need children on universal children day. 
@@ -88,7 +97,8 @@ Git/Github, Bootstrap, Android.
 
 ### Leadership Experience
 
-**U-18 South-Asian Basketball Tournament**
+#### **U-18 South-Asian Basketball Tournament**
+
 *Captain and Player, 2014*
 
 - Captained the Under-18 Bangladesh national basketball team throughout the Tournament. 
@@ -109,18 +119,18 @@ Git/Github, Bootstrap, Android.
 
 ### Intersts and Hobbies
 
-**Web Design and Software Development**
+#### **Web Design and Software Development**
 
 Keenly interested in developing websites using front-end development tools and developing software applications using Android Studio.
 
-**Sports** 
+#### **Sports** 
 
 An avid sports enthusiast, with experience of playing cricket, basketball, soccer and badminton. Represented my home country by playing for the Bangladesh national basketball team in several occasions.
 
-**Singing and playing musical instruments**
+#### **Singing and playing musical instruments**
 
 Love to sing alongside playing musical instruments such as guitar and keyboard. Self-taught guitarist and keyboard player. 
 
-**Gaming**
+#### **Gaming**
 
 Enjoy strategic, individual and team games on several platforms such as Play Station, Mobile, Nintendo, Xbox, etc. 
