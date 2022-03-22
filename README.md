@@ -3,7 +3,7 @@
 
 **Purpose** 
 
-Practical steps on how to host and format a resume using Markdown, Github Pages and Jekyll to a static site applying the specific general principles of current technical writing, as explained in Andrew Etter's book *Modern Technical Writing*.
+Practical steps for hosting and formatting a resume on a static site with Markdown, Github Pages, and Jekyll while adhering to the specific basic principles of modern technical writing as stated in Andrew Etter's book *Modern Technical Writing*.
 
 ## Prerequisites
 
@@ -14,13 +14,13 @@ Practical steps on how to host and format a resume using Markdown, Github Pages 
 
 ### Create a resume by using a Lightweight Markup Language
 
-- According to Andrew Etter in *Modern Technical Writing*, XML files are needed to build websites. But they are language which has its own conventions and therefore requires learning the syntax just like a programming language(i.e. Javascript). This reducues the contributions of modern technical writers as they might not have experience with programming languages. Etter states that writing the contents in a lighweight markup languages makes it easier to produce a well-formatted XML. The lightweight markup languages are human-readable and follows a simple syntax which in turn can increase the contributions.
+- XML files are required to develop websites, according to Andrew Etter in *Modern Technical Writing*. They are, however, a language with their own rules that, like a programming language, necessitates learning the syntax (i.e. Javascript). This limits the contributions of current technical writers, who may not be familiar with programming languages. According to Etter, putting the content in a lightweight markup language makes generating a well-formatted XML easier. The lightweight markup languages are human-readable and have a simple syntax, which also helps boost contributions from people with little to none background of programming.
 - Several Lightweight Markup languages are available such as Markdown, reStructuredText and AsciiDoc as described in *Modern Technical Writing* by Andrew Etter. For the purposes of this specific instructions, we will be using Markdown to demonstrate the objective of hosting a resume. Markdown is described to be the most widely used lightweight markup language as it has a straightforward syntax in *Modern Technical Writing* by Etter. 
 - Andrew also states that there are several specialized text editor for specific operating system for Markdown syntax and they are provided below: 
     - [MarkdownPad](http://markdownpad.com/) (For Windows)
     - [iA Writer](https://ia.net/writer) (For macOS)
     - [ReText](https://www.linuxhelp.com/how-to-install-retext-7-0-1-on-ubuntu-18-04) (For Linux)
-- Due to limited set of features in a Markdown, different 'flavors' were added in extension. Since, we will be hosting in Github, please use the instructions [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for basic formatting syntax in Github. To learn more about Github Flavors Markdown specifications, click [here](https://github.github.com/gfm/)
+- Due to limited set of features in a Markdown, different 'flavors' were added in extension. Since, we will be hosting in Github, please use the instructions [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for basic formatting syntax in Github. To learn more about Github Flavors Markdown specifications, click [here](https://github.github.com/gfm/) respectively. 
 
 
 ### Creating a repository in Github and add files to repository
@@ -36,15 +36,15 @@ Since now you already have an account in Github, the next step is to create a re
 The next step is to push(adding) your files to the repository. There are alternatives way to do this which includes pushing files through command line from your local machine or doing it directly through the browser. The steps below will demonstarate on how to add files directly through the browser. For those who would like to do it through the command line, follow these steps as provided in [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) and [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-using-the-command-line) 
 
 
-Now, the steps to add files directly through browser: 
+The steps to add files directly through browser: 
 
 - First you need to change the name of your "resume.md" to "index.md"
 - Now go to the repository you made under "UserName.github.io" 
 - Click on "Add file" and then "Upload files"
-- Now upload your "index.md" file to your repository by clicking "Commit changes"
+- Upload your "index.md" file to your repository by clicking "Commit changes"
 
 
-Now your resume is uploaded in online. You can take a look at it by visiting "UserName.github.io". 
+Your resume has now been uploaded to the website. You may see it by visiting to "UserName.github.io."
 
 
 > Github is a distributed version control system. A distributed version control system, as mentioned by Etter in *Modern Technical Writing*, provides greater speed, permits offline work, and is preferable for parallel work on the same file. Because we set up a repository earlier, this is now accessible on github, where different individuals may work on the same file, such as the readme.md, and push their modifications. If a modification is made, the repository's owner will be able to first determine whether the change is essential. The modification will be verified by the person with the power to approve it, and the code will be changed. As a result, as Etter said, it is unquestionably better. Instead of waiting for a single person to make a modification, all participants may work on a file simultaneously without worrying about what the other may modify.
