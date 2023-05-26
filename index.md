@@ -13,11 +13,11 @@ Email: ishmacam@myumanitoba.ca | Mobile: +1(204)869-3984 | Github: [muminishmam]
 
 *Minor in Statistics*
 
+*Concentration in Databases*
+
 University of Manitoba, Winnipeg, MB. 
 
 Expected Date of Graduation: August 2022
-
-GPA: 3.65/4.50
 
 ---
 
@@ -25,7 +25,7 @@ GPA: 3.65/4.50
 
 #### **Languages and Databases**
 
-*Familiarity and Course Level Expericence:* Python, Java, C/C++, Assembly, Prolog, JavaScript, HTML, CSS, SQL, SQLDB, R.
+*Familiarity and Course Level Expericence:* Python, Java, C/C++, Assembly, Prolog, JavaScript, HTML, CSS, SQL, SQLDB, R, ReactJs.
 
 #### **Software** 
 
@@ -33,7 +33,7 @@ Android Studio, R Studio, MS Office, IntelliJ, Dr. Java, Visual Studio Code, Xco
 
 #### **Technologies**
 
-Git/Github, Bootstrap, Android. 
+Git/Github, GitLab, Bootstrap, Android. 
 
 #### **Operating Systems** 
 
@@ -72,6 +72,15 @@ Git/Github, Bootstrap, Android.
 - Written in R programming language.
 - Created with R Studio.
 
+
+#### **MR.VIPER**
+
+*Introduction to Data Mining, 2022*
+
+- An efficient approach for mining minimal rare itemsets within weakly, and sparse correalted datasets. 
+- Modified an existing Vertical Pattern Mining algorithm (VIPER) for frequent patterns to find minimal rare patterns. 
+- Developed and created as a collaborative effort with a group of individuals. 
+- Algorithm written in Java. 
 ---
 
 ### **Work Experience**
