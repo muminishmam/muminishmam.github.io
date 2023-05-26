@@ -17,7 +17,7 @@ Email: ishmacam@myumanitoba.ca | Mobile: +1(204)869-3984 | Github: [muminishmam]
 
 University of Manitoba, Winnipeg, MB. 
 
-Expected Date of Graduation: August 2022
+Expected Date of Graduation: April 2024
 
 ---
 
