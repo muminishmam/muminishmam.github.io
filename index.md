@@ -81,6 +81,8 @@ Git/Github, GitLab, Bootstrap, Android.
 - Modified an existing Vertical Pattern Mining algorithm (VIPER) for frequent patterns to find minimal rare patterns. 
 - Developed and created as a collaborative effort with a group of individuals. 
 - Algorithm written in Java. 
+
+
 ---
 
 ### **Work Experience**
