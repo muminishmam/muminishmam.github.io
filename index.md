@@ -3,7 +3,7 @@ title: Personal Resume
 ---
 # Chowdhury Abdul Mumin Ishmam
 
-Email: ishmacam@myumanitoba.ca | Mobile: +1(204)869-3984 | Github: [muminishmam](https://github.com/muminishmam)
+Email: ishmacam@myumanitoba.ca | Mobile: +1 (204) 869-3984 | Github: [muminishmam](https://github.com/muminishmam)
 
 ---
 
@@ -77,7 +77,7 @@ Git/Github, GitLab, Bootstrap, Android.
 
 *Introduction to Data Mining, 2022*
 
-- An efficient approach for mining minimal rare itemsets within weakly, and sparse correalted datasets. 
+- An efficient approach for mining minimal rare itemsets within weakly, and sparse correlated datasets. 
 - Modified an existing Vertical Pattern Mining algorithm (VIPER) for frequent patterns to find minimal rare patterns. 
 - Developed and created as a collaborative effort with a group of individuals. 
 - Algorithm written in Java. 
