@@ -3,13 +3,13 @@ title: Personal Resume
 ---
 # Chowdhury Abdul Mumin Ishmam
 
-Email: ishmacam@myumanitoba.ca | Mobile: +1 (204) 869-3984 | Github: [muminishmam](https://github.com/muminishmam)
+Email: ishmacam@myumanitoba.ca | Mobile: +1 (204) 869-3984 | Github: [muminishmam](https://github.com/muminishmam) | Website: [muminishmam](https://ishmam.vercel.app)
 
 ---
 
 ### **Education** 
 
-**Bachelor of Computer Science Major**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018 - Present
+**Bachelor of Computer Science Major**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018 - 2024
 
 *Minor in Statistics*
 
@@ -17,23 +17,21 @@ Email: ishmacam@myumanitoba.ca | Mobile: +1 (204) 869-3984 | Github: [muminishma
 
 University of Manitoba, Winnipeg, MB. 
 
-Expected Date of Graduation: April 2024
-
 ---
 
 ### **Technical Skills**
 
 #### **Languages and Databases**
 
-*Familiarity and Course Level Expericence:* Python, Java, C/C++, Assembly, Prolog, JavaScript, HTML, CSS, SQL, SQLDB, R, ReactJs.
+*Familiarity and Course Level Expericence:* Python, Java, C/C++, Assembly, Prolog, JavaScript, HTML, CSS, SQL, HSQLDB, R, React Js, Next JS, Node JS, Tailwind CSS.
 
 #### **Software** 
 
-Android Studio, R Studio, MS Office, IntelliJ, Dr. Java, Visual Studio Code, Xcode
+Android Studio, R Studio, MS Office, IntelliJ, Dr. Java, Visual Studio Code, Xcode, Power.
 
 #### **Technologies**
 
-Git/Github, GitLab, Bootstrap, Android. 
+Git/Github, GitLab, Bootstrap, Android, Next. 
 
 #### **Operating Systems** 
 
@@ -134,7 +132,7 @@ Git/Github, GitLab, Bootstrap, Android.
 
 #### **Web Design and Software Development**
 
-Keenly interested in developing websites using front-end development tools and developing software applications using Android Studio.
+Keenly interested in developing websites using front-end development tools and developing software applications using Android Studio, React and Node.
 
 #### **Sports** 
 
